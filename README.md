@@ -1,0 +1,1 @@
+# tool_for_checking_if_website_allows_text_scraping
